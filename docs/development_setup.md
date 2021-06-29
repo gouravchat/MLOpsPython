@@ -1,5 +1,5 @@
 ## Development environment setup
-
+I am doing some small changes 
 ### Setup
 
 Please be aware that the local environment also needs access to the Azure subscription so you have to have Contributor access on the Azure ML Workspace.
